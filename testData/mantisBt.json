@@ -1,0 +1,13 @@
+{
+  "domain":"http://localhost:8080/mantisbt-2.23.0/",
+
+
+
+  "ReportGenerator":{
+
+    "testName":"functionalTest",
+    "version":"0.0.0.001"
+
+  }
+
+}

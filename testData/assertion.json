@@ -1,0 +1,10 @@
+{
+
+  "loginPageAssertion":{
+
+    "wrongPassword":"password you entered is incorrect",
+    "pageTitle":"My Account - MantisBT"
+
+
+  }
+}

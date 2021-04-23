@@ -1,0 +1,10 @@
+{
+
+  "loginFunctionality":{
+    "userName":"administrator",
+    "password":"root",
+    "wrongPassword":"123"
+  }
+
+
+}
